@@ -1,4 +1,4 @@
-# operador de soma
+·# operador de soma
 soma = 1 + 2
 
 # operador de subtracao
